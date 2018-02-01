@@ -1,7 +1,9 @@
 'fileTypes': [
+  'pug'
+  'vue'
   'jade'
 ]
-'name': 'Jade'
+'name': 'Pug'
 'patterns': [
   {
     'comment': 'Doctype declaration.'
