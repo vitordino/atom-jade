@@ -1,12 +1,10 @@
 {
-  "name": "language-jade",
-  "version": "0.7.2",
-  "private": true,
-  "description": "Jade TextMate bundle converted for Atom",
-  "repository": "https://github.com/devongovett/atom-jade",
+  "name": "pug",
+  "version": "0.7.3",
+  "description": "pug + jade + vue highlighting for atom editor",
+  "repository": "https://github.com/vitordino/atom-pug",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
-  },
-  "dependencies": {}
+  }
 }

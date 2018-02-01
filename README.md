@@ -1,4 +1,3 @@
-# atom-jade
+# pug for atom
 
-The [Jade TextMate bundle](https://github.com/davidrios/jade-tmbundle) converted
-for [Atom](https://atom.io/).
+atom package for highlighting pug on `.pug`,`.jade` or `.vue` files.
