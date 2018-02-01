@@ -1,6 +1,6 @@
 {
   "name": "pug",
-  "version": "0.7.3",
+  "version": "0.8.0",
   "description": "pug + jade + vue highlighting for atom editor",
   "repository": "https://github.com/vitordino/atom-pug",
   "license": "MIT",
