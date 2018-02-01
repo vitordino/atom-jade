@@ -1,6 +1,9 @@
 'fileTypes': [
+  'py.pug'
+  'pypug'
   'py.jade'
   'pyjade'
+
 ]
 'name': 'Jade (Python)'
 'patterns': [
